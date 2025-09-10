@@ -75,6 +75,8 @@ awesome-ugcraft-list!
 
 - <https://www.upwork.com/>
 
+**Web3 Job Database**
+
 - [Web3 Job Database](https://docs.google.com/spreadsheets/d/1jxymnRoNf05quL4QCr69702AEAC1QQroX-_gl9iNz_A/edit?gid=870926729#gid=870926729)
 
 **Wellfound**: Where startups and job seekers connect
