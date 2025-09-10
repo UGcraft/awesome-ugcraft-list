@@ -1,5 +1,6 @@
 # awesome-ugcraft-list
-awesome-ugcraft-list!各类资源汇总
+awesome-ugcraft-list!
+偏向生活工作方向的各类资源汇总，为了与discord技术资源分享区别开不在此分享技术类型资源。欢迎大家多多投稿！
 
 ---
 
