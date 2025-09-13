@@ -83,3 +83,18 @@ awesome-ugcraft-list!
 
 - <https://wellfound.com/>
 
+
+
+## Career Resources
+
+**typing.com**: Improve your English typing speed
+
+- <https://www.typing.com/student/lessons>
+
+**cross-cultural commmunication**: Learn business culture at different regions
+- <https://commisceo-global.com/categories/country-guides/> 
+
+## Hackthon
+
+**MLH**: Major League Hacking (click `Participate` button on top left to explore)
+- <https://mlh.io/>
