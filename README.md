@@ -94,7 +94,16 @@ awesome-ugcraft-list!
 **cross-cultural commmunication**: Learn business culture at different regions
 - <https://commisceo-global.com/categories/country-guides/> 
 
+
+
 ## Hackthon
 
 **MLH**: Major League Hacking (click `Participate` button on top left to explore)
 - <https://mlh.io/>
+
+
+## Health and Wellness
+
+**Mindfulness**: a practice of paying full, non-judgmental attention to the present moment.
+- <https://hbr.org/2016/03/how-to-practice-mindfulness-throughout-your-work-day>
+- <https://audio.hbr.org/misc/Mindfulness_-_Breathing_Exercise.mp3>
