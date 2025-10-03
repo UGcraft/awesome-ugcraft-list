@@ -94,7 +94,9 @@ awesome-ugcraft-list!
 **cross-cultural commmunication**: Learn business culture at different regions
 - <https://commisceo-global.com/categories/country-guides/> 
 
+**Career Advice**: Passion is Rare & Adopting Craftsman Mindset
 
+- <https://drive.usercontent.google.com/download?id=1PkFNgMLm2hWlOgr1Cm2zB6iOMvbMHCHW&export=download&authuser=0>
 
 ## Hackthon
 
