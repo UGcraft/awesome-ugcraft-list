@@ -109,3 +109,8 @@ awesome-ugcraft-list!
 **Mindfulness**: a practice of paying full, non-judgmental attention to the present moment.
 - <https://hbr.org/2016/03/how-to-practice-mindfulness-throughout-your-work-day>
 - <https://audio.hbr.org/misc/Mindfulness_-_Breathing_Exercise.mp3>
+
+## Bureaucracy in the Workplace
+- <https://allen-faulton.medium.com/the-fine-art-of-navigating-bureaucracy-a91236a29e58>
+- <https://www.themuse.com/advice/how-to-deal-with-the-worst-organizational-bureaucracy>
+- <https://zenhabits.net/10-steps-to-take-action-and-eliminate-bureaucracy/>
