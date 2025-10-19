@@ -95,8 +95,13 @@ awesome-ugcraft-list!
 - <https://commisceo-global.com/categories/country-guides/> 
 
 **Career Advice**: Passion is Rare & Adopting Craftsman Mindset
-
 - <https://drive.usercontent.google.com/download?id=1PkFNgMLm2hWlOgr1Cm2zB6iOMvbMHCHW&export=download&authuser=0>
+
+**Find your Ikigai**: Seek for Your Life Purpose
+- [Finding Your Purpose(Ikigai)](https://benmeer.com/newsletter/ikigai/)
+- [How To Find Your Ikigai And Transform Your Outlook On Life And Business](https://www.forbes.com/sites/chrismyers/2018/02/23/how-to-find-your-ikigai-and-transform-your-outlook-on-life-and-business/?sh=7f27a3022ed4)
+- [The Philosophy of Ikigai: 3 Examples About Finding Purpose](https://positivepsychology.com/ikigai/)
+- [What is Ikigai and how can it add meaning to my life?](https://getmarlee.com/blog/what-is-ikigai)
 
 ## Hackthon
 
